@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertLynJA
 - 👀 I’m interested in .Net, Java, C++, UI, Mobile, Games. 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React, Docker, Azure, AWS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
